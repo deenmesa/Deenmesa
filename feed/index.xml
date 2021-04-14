@@ -11,13 +11,21 @@
 	<title>Deenmesa</title>
 	<atom:link href="https://deenmesa.github.io/Deenmesa/feed/" rel="self" type="application/rss+xml" />
 	<link>https://deenmesa.github.io/Deenmesa</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 14 Apr 2021 05:16:40 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Wed, 14 Apr 2021 06:27:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://deenmesa.github.io/Deenmesa/wp-content/uploads/2021/03/cropped-DM_logo-1-1-32x32.png</url>
+	<title>Deenmesa</title>
+	<link>https://deenmesa.github.io/Deenmesa</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
